@@ -22,6 +22,7 @@ def kwiatek(wspolzedna_x=0,wspolzedna_y=0,skala=1):
     fd(int(150*skala))
     ht()
 
+# testowe kwiatki
 kwiatek(-350,0,0.1)
 kwiatek(-300,0,0.2)
 kwiatek(-150,0,0.5)
